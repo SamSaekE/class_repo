@@ -4,3 +4,5 @@
 - abcdef
 - 마바사아
 - ghijklm
+- 자차카
+- 마감
